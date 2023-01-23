@@ -1,0 +1,23 @@
+
+/* Class - Odd Numbered Elements*/
+.odd {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.size24 {
+    font-size: 24px;
+}
+
+/* ID - Second Element */
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+/* ID - Fourth Element */
+#fourth {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
